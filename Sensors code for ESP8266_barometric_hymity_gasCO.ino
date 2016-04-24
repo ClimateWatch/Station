@@ -1,4 +1,5 @@
-//Libraries
+//uncompleted code for Sensors on ESP8266
+//Libraries 
 #include <DHT.h>;
 #include <SFE_BMP180.h>
 #include <Wire.h>
